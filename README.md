@@ -46,7 +46,7 @@ Interactive demonstration with multiple scenarios and custom testing mode.
 No external dependencies required. Just clone or download the files.
 
 ```bash
-cd "d:\distributed assignement"
+cd "assignment-2-team6"
 ```
 
 ## Usage
