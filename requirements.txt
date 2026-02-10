@@ -1,0 +1,10 @@
+# Suzuki-Kasami Algorithm Implementation
+# No external dependencies required - uses Python standard library only
+
+# Minimum Python version: 3.7
+# Verify with: python --version
+
+# All required modules are part of Python standard library:
+# - typing
+# - collections
+# - time
